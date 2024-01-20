@@ -61,15 +61,15 @@
 
 .vertical {
     background-color: rgb(21, 21, 103);
-    width: 41px;
+    width: 40px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     position: absolute;
     z-index: 10;
-    left: 300px;
+    left: 400px;
     height: 450px;
-    left: 39.6%;
+    left: 38.6%;
 }
 
 .horizontal {
